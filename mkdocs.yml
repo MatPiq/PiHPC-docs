@@ -1,0 +1,8 @@
+site_name: 'RaspberryPi HPC cluster'
+repo_url: https://github.com/matpiq/PiHPC-docs
+edit_uri: edit/main/docs/
+nav:
+  - Home: index.md
+  - Hardwarre: hardware.md
+theme:
+  name: material
